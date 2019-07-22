@@ -1,0 +1,11 @@
+label, button, input {
+  margin-top: 5px;
+  display: block;
+}
+button {
+  color: white;
+  background: blue;
+  border: blue;
+  padding: 5px 15px;
+  text-transform: uppercase;
+}
